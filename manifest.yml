@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: fa furrukh
+  host: fa-furrukh
+  disk_quota: 1024M
